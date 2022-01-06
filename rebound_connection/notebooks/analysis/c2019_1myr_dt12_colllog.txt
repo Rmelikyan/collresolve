@@ -1,0 +1,647 @@
+Particles in the simulation at t=   0.0: 156
+collision time = 6.5 years
+impact velocity = 4.7e-04 AU/day
+velocity ratio = 0.98
+impact angle = 56.6 deg
+[collresolve.Body(mass=1.002868e-07, radius=1.6228732155206607e-05, pos_x=1.6519849936961792, pos_y=-0.8841059224138632, pos_z=0.010634606103036211, vel_x=0.005954659347717481, vel_y=0.011086058944130374, vel_z=3.602608862535503e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 44.7 years
+impact velocity = 4.7e-04 AU/day
+velocity ratio = 0.99
+impact angle = 17.8 deg
+[collresolve.Body(mass=9.935803449946664e-08, radius=1.6180531575433994e-05, pos_x=-0.6926728417857572, pos_y=1.0755863336670741, pos_z=0.0006844532034059597, vel_x=-0.012843307228112385, vel_y=-0.008109250725678873, vel_z=1.8552420734886798e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=9.287655005333703e-10, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 145.3 years
+impact velocity = 4.8e-04 AU/day
+velocity ratio = 1.00
+impact angle = 44.3 deg
+[collresolve.Body(mass=1.002868e-07, radius=1.6228732155206607e-05, pos_x=0.35864664828666226, pos_y=1.1101588384817886, pos_z=0.0004788167856628053, vel_x=-0.015194825374920055, vel_y=0.004856589292151641, vel_z=-1.1339465300806126e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 158.3 years
+impact velocity = 4.7e-04 AU/day
+velocity ratio = 0.99
+impact angle = 68.0 deg
+[collresolve.Body(mass=1.002868e-07, radius=1.6228732155206607e-05, pos_x=-0.027119008418783376, pos_y=-0.725959028518794, pos_z=-1.1919244335134138e-05, vel_x=0.020130642567673124, vel_y=-0.000722125518095143, vel_z=-5.500844746424014e-06), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 343.3 years
+impact velocity = 4.9e-04 AU/day
+velocity ratio = 1.02
+impact angle = 78.5 deg
+[collresolve.Body(mass=8.468874711166993e-08, radius=1.5375055228846427e-05, pos_x=0.6256348758315131, pos_y=-0.07219666880396008, pos_z=0.0018287549309965695, vel_x=0.002487273252501105, vel_y=0.0215706510715203, vel_z=2.71118833162687e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=1.5598052888330073e-08, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 426.1 years
+impact velocity = 4.7e-04 AU/day
+velocity ratio = 0.98
+impact angle = 27.0 deg
+[collresolve.Body(mass=1.002868e-07, radius=1.6228732155206607e-05, pos_x=-0.6324638377224217, pos_y=-0.6376854892222942, pos_z=-0.002314889052377517, vel_x=0.012829631727819943, vel_y=-0.012851928647606465, vel_z=0.00010604346115798712), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 512.5 years
+impact velocity = 7.6e-04 AU/day
+velocity ratio = 0.97
+impact angle = 38.2 deg
+[collresolve.Body(mass=1.5043020000000002e-07, radius=1.84470588279601e-05, pos_x=-0.14503004000359698, pos_y=-0.7123718020724779, pos_z=-7.513528913028412e-05, vel_x=0.019692649513176883, vel_y=-0.004016697437722095, vel_z=3.869989659450592e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 567.6 years
+impact velocity = 4.9e-04 AU/day
+velocity ratio = 1.02
+impact angle = 35.5 deg
+[collresolve.Body(mass=1.002868e-07, radius=1.6228732155206607e-05, pos_x=0.3528770722079697, pos_y=1.5582622287006092, pos_z=0.006367007237734519, vel_x=-0.013250171856750686, vel_y=0.0030427805930637814, vel_z=7.490503156749949e-06), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 756.4 years
+impact velocity = 4.8e-04 AU/day
+velocity ratio = 1.00
+impact angle = 38.8 deg
+[collresolve.Body(mass=1.002868e-07, radius=1.6228732155206607e-05, pos_x=-0.22547043781931658, pos_y=0.9314611903291019, pos_z=0.001585656641240611, vel_x=-0.01707993506219204, vel_y=-0.004164205119050834, vel_z=1.6728922425101572e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 816.7 years
+impact velocity = 5.7e-04 AU/day
+velocity ratio = 1.20
+impact angle = 34.5 deg
+[collresolve.Body(mass=9.6044712816422e-08, radius=1.6006045415478455e-05, pos_x=0.5337037351134117, pos_y=-0.4298507724815267, pos_z=0.0008713159202359511, vel_x=0.012879867236817635, vel_y=0.016377099289313482, vel_z=2.1765902811305833e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=4.24208718357801e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 850.1 years
+impact velocity = 4.7e-04 AU/day
+velocity ratio = 0.99
+impact angle = 42.6 deg
+[collresolve.Body(mass=1.002868e-07, radius=1.6228732155206607e-05, pos_x=-0.1625369431975131, pos_y=1.3801447530921656, pos_z=-0.007719055145517215, vel_x=-0.014460817492187722, vel_y=-0.0017670461405880108, vel_z=-8.966503946334934e-06), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 1003.1 years
+impact velocity = 4.7e-04 AU/day
+velocity ratio = 0.98
+impact angle = 62.6 deg
+[collresolve.Body(mass=1.002868e-07, radius=1.6228732155206607e-05, pos_x=-0.8509136250165776, pos_y=0.12447464634798017, pos_z=-0.0038828491818031175, vel_x=-0.0027715530905404835, vel_y=-0.01833521795785987, vel_z=7.864696418143179e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 1022.7 years
+impact velocity = 4.9e-04 AU/day
+velocity ratio = 1.02
+impact angle = 30.3 deg
+[collresolve.Body(mass=1.0025349400925575e-07, radius=1.6227008906615607e-05, pos_x=-1.312924825243754, pos_y=-1.0168683213103547, pos_z=-0.00686071797456699, vel_x=0.008226845895495284, vel_y=-0.010548362884839985, vel_z=0.00011973394284629306), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=3.3305990744255224e-11, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 1206.6 years
+impact velocity = 5.0e-04 AU/day
+velocity ratio = 1.05
+impact angle = 27.5 deg
+[collresolve.Body(mass=9.966933926437352e-08, radius=1.6196721440101254e-05, pos_x=-1.416888000361097, pos_y=-0.2776167860481875, pos_z=-0.004830890593792608, vel_x=0.002737025894090335, vel_y=-0.014095065178956584, vel_z=-8.397315309033779e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=6.174607356264881e-10, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 1476.4 years
+impact velocity = 9.1e-04 AU/day
+velocity ratio = 1.02
+impact angle = 40.0 deg
+[collresolve.Body(mass=2.005736e-07, radius=2.0185492421034203e-05, pos_x=0.09605169535800681, pos_y=-0.7167720232450931, pos_z=0.002039728922721836, vel_x=0.020059008315897128, vel_y=0.002586966747717354, vel_z=-6.692985594520056e-06), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 1631.3 years
+impact velocity = 4.7e-04 AU/day
+velocity ratio = 0.99
+impact angle = 60.3 deg
+[collresolve.Body(mass=1.002868e-07, radius=1.6228732155206607e-05, pos_x=0.24638580358433362, pos_y=-0.7130444280450372, pos_z=-0.002129516789112269, vel_x=0.01864403895325186, vel_y=0.006387110263550883, vel_z=-2.2496357541286707e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 1662.7 years
+impact velocity = 4.5e-04 AU/day
+velocity ratio = 0.93
+impact angle = 19.7 deg
+[collresolve.Body(mass=9.996497694889397e-08, radius=1.6212064779848674e-05, pos_x=0.27632504359902776, pos_y=0.5446156977781158, pos_z=-0.00019141663027337432, vel_x=-0.019742785289604, vel_y=0.009827034168055589, vel_z=3.625235503274348e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=3.2182305110603826e-10, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 1752.0 years
+impact velocity = 4.8e-04 AU/day
+velocity ratio = 1.01
+impact angle = 43.0 deg
+[collresolve.Body(mass=1.002868e-07, radius=1.6228732155206607e-05, pos_x=0.7025104987297445, pos_y=-0.43453108690774966, pos_z=-0.005702501026515332, vel_x=0.009992084735034462, vel_y=0.015995169129789877, vel_z=-4.025123419027328e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 1777.2 years
+impact velocity = 4.9e-04 AU/day
+velocity ratio = 1.03
+impact angle = 66.4 deg
+[collresolve.Body(mass=9.475294974826843e-08, radius=1.5936911885529422e-05, pos_x=-0.7962248250012054, pos_y=0.6321970284579088, pos_z=0.0014542449415629738, vel_x=-0.010574091518933034, vel_y=-0.01349507088437757, vel_z=-7.891685658017383e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=5.533850251731575e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 1833.5 years
+impact velocity = 4.7e-04 AU/day
+velocity ratio = 0.99
+impact angle = 30.4 deg
+[collresolve.Body(mass=1.002868e-07, radius=1.6228732155206607e-05, pos_x=0.9319141550422365, pos_y=0.8080384924876359, pos_z=0.0032292182844979767, vel_x=-0.010115755956498183, vel_y=0.011651539436474841, vel_z=-3.0098765598052276e-06), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 1866.2 years
+impact velocity = 5.0e-04 AU/day
+velocity ratio = 1.04
+impact angle = 33.7 deg
+[collresolve.Body(mass=1.002868e-07, radius=1.6228732155206607e-05, pos_x=1.0967479059794636, pos_y=-0.06701916261662366, pos_z=-0.0046782621904369395, vel_x=0.001057413373324852, vel_y=0.016428289320322975, vel_z=9.830626195685656e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 2416.9 years
+impact velocity = 5.5e-04 AU/day
+velocity ratio = 1.14
+impact angle = 33.0 deg
+[collresolve.Body(mass=9.84862411221781e-08, radius=1.6135008726127348e-05, pos_x=-0.29056438163050646, pos_y=-0.9386872103687105, pos_z=0.00013139604525484052, vel_x=0.016606545965458564, vel_y=-0.005051506433008744, vel_z=3.0246475207281275e-06), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=1.8005588778219088e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 2585.3 years
+impact velocity = 4.8e-04 AU/day
+velocity ratio = 0.99
+impact angle = 86.8 deg
+[collresolve.Body(mass=9.037469963169531e-08, radius=1.5697723836118823e-05, pos_x=-0.17116217139086845, pos_y=1.50913077633781, pos_z=0.00774757553749311, vel_x=-0.013843925902737187, vel_y=-0.0014841724839061632, vel_z=-1.2864862500408663e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=9.91210036830469e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 2860.8 years
+impact velocity = 5.5e-04 AU/day
+velocity ratio = 1.14
+impact angle = 36.0 deg
+[collresolve.Body(mass=9.787839983765512e-08, radius=1.6103106754935554e-05, pos_x=-0.6763441751481677, pos_y=-0.6225387878746711, pos_z=-0.004168902096304652, vel_x=0.012174243391481886, vel_y=-0.013188048019289982, vel_z=4.0960054901325945e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=2.4084001623448883e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 3044.1 years
+impact velocity = 4.9e-04 AU/day
+velocity ratio = 1.02
+impact angle = 31.0 deg
+[collresolve.Body(mass=1.002868e-07, radius=1.6228732155206607e-05, pos_x=1.2702972182575025, pos_y=-0.8865418553730848, pos_z=-0.009476473808191138, vel_x=0.007926278353623436, vel_y=0.01134829762410557, vel_z=8.729211060044067e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 3762.8 years
+impact velocity = 4.9e-04 AU/day
+velocity ratio = 1.02
+impact angle = 37.5 deg
+[collresolve.Body(mass=1.002868e-07, radius=1.6228732155206607e-05, pos_x=1.5413003315313922, pos_y=0.9367621309618015, pos_z=0.006189927757601271, vel_x=-0.00653606467987628, vel_y=0.010961700669095444, vel_z=-3.459454130836315e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 3996.5 years
+impact velocity = 7.7e-04 AU/day
+velocity ratio = 0.99
+impact angle = 37.1 deg
+[collresolve.Body(mass=1.486296411221781e-07, radius=1.837715807562679e-05, pos_x=-0.027211689496317394, pos_y=-0.9797774120444266, pos_z=0.0005852321874950195, vel_x=0.01739765570919382, vel_y=-0.0005956385344471523, vel_z=-1.5156619136508069e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 4684.0 years
+impact velocity = 8.9e-04 AU/day
+velocity ratio = 1.14
+impact angle = 79.6 deg
+[collresolve.Body(mass=1.0845453626534858e-07, radius=1.6637839300312298e-05, pos_x=-0.18107219871055397, pos_y=0.8076677424305972, pos_z=-0.0059824262256060155, vel_x=-0.018121019671588273, vel_y=-0.003971201010601971, vel_z=0.00045785639237805277), collresolve.Body(mass=4.197566373465143e-08, radius=1.2268202316870187e-05, pos_x=-0.1810752286582682, pos_y=0.8076938191500982, pos_z=-0.00599520034395757, vel_x=-0.019177035284382957, vel_y=-0.004269583859544273, vel_z=-0.0010413200734079567), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 4684.0 years
+impact velocity = 1.9e-03 AU/day
+velocity ratio = 1.06
+impact angle = 75.6 deg
+[collresolve.Body(mass=1.3372935518895202e-07, radius=1.7774529645951127e-05, pos_x=-0.18107304417952486, pos_y=0.8076750188126606, pos_z=-0.005985990683383984, vel_x=-0.018415687605694665, vel_y=-0.0040544610084706795, vel_z=3.952997117581615e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=1.6700844811047998e-08, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 5050.4 years
+impact velocity = 4.7e-04 AU/day
+velocity ratio = 0.99
+impact angle = 78.2 deg
+[collresolve.Body(mass=1.002868e-07, radius=1.6228732155206607e-05, pos_x=-1.4788235447638614, pos_y=-1.3443713036547202, pos_z=-0.008573866582768933, vel_x=0.008249654711872785, vel_y=-0.008962666310504288, vel_z=-0.00011724131637503419), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 5449.9 years
+impact velocity = 7.6e-04 AU/day
+velocity ratio = 0.99
+impact angle = 28.9 deg
+[collresolve.Body(mass=1.46188112816422e-07, radius=1.8281325348402374e-05, pos_x=-0.16035418141541816, pos_y=-0.6436420372851621, pos_z=0.0027640556042006627, vel_x=0.02054709736300294, vel_y=-0.005269745369647997, vel_z=2.5612923333036505e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 6259.0 years
+impact velocity = 6.4e-04 AU/day
+velocity ratio = 1.34
+impact angle = 67.8 deg
+[collresolve.Body(mass=4.774003365333243e-08, radius=1.2789843492679055e-05, pos_x=0.44658190450386337, pos_y=-0.6224708605435243, pos_z=-0.0035728876014866594, vel_x=0.01589307575959356, vel_y=0.011368949021947194, vel_z=-1.1906267473820342e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=5.2546766346667575e-08, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 6599.1 years
+impact velocity = 8.6e-04 AU/day
+velocity ratio = 1.80
+impact angle = 13.9 deg
+[collresolve.Body(mass=8.049700664623637e-08, radius=1.512763744768333e-05, pos_x=-0.574736277040933, pos_y=-0.12359698707469796, pos_z=0.00028382240696370913, vel_x=0.004659288795325093, vel_y=-0.021940419555224876, vel_z=-0.00013890481008206281), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=1.978979335376364e-08, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 7078.0 years
+impact velocity = 4.8e-04 AU/day
+velocity ratio = 1.01
+impact angle = 55.3 deg
+[collresolve.Body(mass=1.002868e-07, radius=1.6228732155206607e-05, pos_x=0.3338253048858123, pos_y=1.0442354263523208, pos_z=0.005118589748752292, vel_x=-0.015551531415170192, vel_y=0.005190757469578703, vel_z=-7.888959508321405e-06), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 7212.0 years
+impact velocity = 5.1e-04 AU/day
+velocity ratio = 1.07
+impact angle = 21.1 deg
+[collresolve.Body(mass=9.91707834303704e-08, radius=1.6170776721816147e-05, pos_x=0.11319958833180616, pos_y=-1.5366863197078473, pos_z=0.003317700088665068, vel_x=0.013856744492669174, vel_y=0.0011029316778731915, vel_z=-3.772483425810802e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=1.116016569629604e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 8448.0 years
+impact velocity = 4.9e-04 AU/day
+velocity ratio = 1.02
+impact angle = 72.3 deg
+[collresolve.Body(mass=9.449270123676839e-08, radius=1.5922906420785605e-05, pos_x=-1.4016773135111902, pos_y=1.2149418501037397, pos_z=0.012336085160899103, vel_x=-0.008201451491740083, vel_y=-0.009505473770861046, vel_z=-5.401513064011712e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=5.794098763231614e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 8908.9 years
+impact velocity = 1.2e-03 AU/day
+velocity ratio = 1.20
+impact angle = 43.9 deg
+[collresolve.Body(mass=2.381524134245927e-07, radius=2.129226238284246e-05, pos_x=-0.37636797947777656, pos_y=0.6157269260752938, pos_z=-0.0007917309379796194, vel_x=-0.01722408239793942, vel_y=-0.010649774845863479, vel_z=-4.3701937482892755e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=1.2564586575407336e-08, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 8982.3 years
+impact velocity = 7.5e-04 AU/day
+velocity ratio = 1.58
+impact angle = 56.5 deg
+[collresolve.Body(mass=5.046229648853492e-08, radius=1.3021453906719233e-05, pos_x=1.3520536057560248, pos_y=-0.9909805900740418, pos_z=-0.006323235552489936, vel_x=0.007068007762617421, vel_y=0.01110706027257096, vel_z=0.0002713655124281593), collresolve.Body(mass=4.609851635521024e-08, radius=1.2645840856450442e-05, pos_x=1.3520542279260066, pos_y=-0.991003419894955, pos_z=-0.006335501940852374, vel_x=0.009064746050479813, vel_y=0.010431005870821151, vel_z=-0.00031994621332437963), collresolve.Body(mass=3.72598715625485e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 8982.3 years
+impact velocity = 2.2e-03 AU/day
+velocity ratio = 1.47
+impact angle = 66.0 deg
+[collresolve.Body(mass=5.025627521108388e-08, radius=1.3004225098627673e-05, pos_x=1.3520564314846277, pos_y=-0.9909810491730955, pos_z=-0.0063238065465763766, vel_x=0.007231835663894134, vel_y=0.011205276124256373, vel_z=0.00030494109823671095), collresolve.Body(mass=4.3826762586928634e-08, radius=1.2440719819047707e-05, pos_x=1.3520510031123623, pos_y=-0.9910034606402809, pos_z=-0.006335151932597498, vel_x=0.008926492091835435, vel_y=0.010301585235007762, vel_z=-0.0003731382800023362), collresolve.Body(mass=2.4777750457326478e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 9231.7 years
+impact velocity = 9.2e-04 AU/day
+velocity ratio = 1.03
+impact angle = 50.2 deg
+[collresolve.Body(mass=1.987730411221781e-07, radius=2.012855879050896e-05, pos_x=-0.44256945306548034, pos_y=-0.8797695597435882, pos_z=0.0043066657121647355, vel_x=0.015432721053154847, vel_y=-0.007789523532605843, vel_z=3.3069630364963764e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 9424.6 years
+impact velocity = 6.7e-04 AU/day
+velocity ratio = 1.40
+impact angle = 67.4 deg
+[collresolve.Body(mass=4.8942971239776906e-08, radius=1.2893261246857672e-05, pos_x=-0.2609997427224276, pos_y=-1.035134225332637, pos_z=0.0009095406750164343, vel_x=0.015287788218196539, vel_y=-0.004654280627721049, vel_z=-0.00032009950079552214), collresolve.Body(mass=4.9277087744656366e-08, radius=1.2921680388920159e-05, pos_x=-0.26098836158003486, pos_y=-1.0351468820248473, pos_z=0.0009292912146835624, vel_x=0.01693907283508625, vel_y=-0.0037682208377591347, vel_z=0.00019069156537519183), collresolve.Body(mass=2.066741015566734e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 9424.6 years
+impact velocity = 1.9e-03 AU/day
+velocity ratio = 1.30
+impact angle = 70.7 deg
+[collresolve.Body(mass=4.629438692803977e-08, radius=1.2663203835363416e-05, pos_x=-0.26099403279353817, pos_y=-1.035140575205963, pos_z=0.0009194495376891358, vel_x=0.016116239125264022, vel_y=-0.004209743671946211, vel_z=-6.383518526634856e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=5.19256720563935e-08, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 10796.8 years
+impact velocity = 7.9e-04 AU/day
+velocity ratio = 1.01
+impact angle = 41.5 deg
+[collresolve.Body(mass=1.5043020000000002e-07, radius=1.84470588279601e-05, pos_x=0.9995837518812543, pos_y=0.40506783281420317, pos_z=0.002993154004464645, vel_x=-0.00626352475422632, vel_y=0.01543933907565409, vel_z=-3.9583129336211734e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 11306.2 years
+impact velocity = 5.3e-04 AU/day
+velocity ratio = 1.11
+impact angle = 75.5 deg
+[collresolve.Body(mass=5.4983378591250264e-08, radius=1.3388128396012395e-05, pos_x=0.5165019358564664, pos_y=0.12822429822557455, pos_z=-0.0015219873359212503, vel_x=-0.005414769449093741, vel_y=0.02296593071695599, vel_z=1.9963832597421148e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=4.530342140874974e-08, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 11356.9 years
+impact velocity = 7.8e-04 AU/day
+velocity ratio = 1.07
+impact angle = 32.3 deg
+[collresolve.Body(mass=1.3064040664623638e-07, radius=1.7643934417353308e-05, pos_x=0.5521119134119051, pos_y=-0.1930399473627098, pos_z=0.0017447270590760548, vel_x=0.007258705715991894, vel_y=0.0212268303339309, vel_z=-2.2283463691150275e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 12636.6 years
+impact velocity = 8.2e-04 AU/day
+velocity ratio = 1.05
+impact angle = 18.3 deg
+[collresolve.Body(mass=1.4888788095786757e-07, radius=1.8387231386042385e-05, pos_x=-1.1520861822364634, pos_y=-0.2510093990655397, pos_z=-0.007144843192510779, vel_x=0.003370019025987569, vel_y=-0.015426420732897668, vel_z=2.953737919094042e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=1.5423190421324451e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 16145.6 years
+impact velocity = 7.8e-04 AU/day
+velocity ratio = 1.00
+impact angle = 29.8 deg
+[collresolve.Body(mass=1.5043020000000002e-07, radius=1.84470588279601e-05, pos_x=0.990274919950044, pos_y=-0.15665352894839568, pos_z=0.0017977263648085802, vel_x=0.0028268392572536076, vel_y=0.01689380093756475, vel_z=-4.186098615382971e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 18977.7 years
+impact velocity = 9.3e-04 AU/day
+velocity ratio = 1.08
+impact angle = 76.5 deg
+[collresolve.Body(mass=1.5797260760330828e-07, radius=1.873161881275676e-05, pos_x=0.7915301634633126, pos_y=-0.23977867284201976, pos_z=-0.003839396459761975, vel_x=0.005326989916886152, vel_y=0.018207757102818856, vel_z=3.9173347095294034e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=2.5900147585643732e-08, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 19468.3 years
+impact velocity = 5.7e-04 AU/day
+velocity ratio = 1.20
+impact angle = 60.8 deg
+[collresolve.Body(mass=5.058217564674524e-08, radius=1.303145710536733e-05, pos_x=0.9120510092585746, pos_y=-0.02883039111084422, pos_z=0.0017589329857436266, vel_x=0.0006453495387254741, vel_y=0.017927272625318923, vel_z=-2.4385675363538265e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=4.9704624353254766e-08, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 21121.6 years
+impact velocity = 5.2e-04 AU/day
+velocity ratio = 1.10
+impact angle = 62.1 deg
+[collresolve.Body(mass=7.371777713280914e-08, radius=1.4708285388447827e-05, pos_x=-1.1384653471451718, pos_y=1.225102957477255, pos_z=-0.02331034779221207, vel_x=-0.00994866924318516, vel_y=-0.008740348911319588, vel_z=-9.283172412435369e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=2.6569022867190867e-08, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 25579.0 years
+impact velocity = 9.7e-04 AU/day
+velocity ratio = 1.10
+impact angle = 44.7 deg
+[collresolve.Body(mass=1.9424203527935697e-07, radius=1.9983713124942156e-05, pos_x=0.04395948147359675, pos_y=0.6766841391968897, pos_z=-0.0051552341629610915, vel_x=-0.02073844141560019, vel_y=0.0015415605199345021, vel_z=4.096052595873852e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=2.0894775370650216e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 25957.2 years
+impact velocity = 8.4e-04 AU/day
+velocity ratio = 1.32
+impact angle = 17.1 deg
+[collresolve.Body(mass=9.595893607843207e-08, radius=1.6001474378383205e-05, pos_x=-0.11686865907027294, pos_y=0.7637156993231752, pos_z=0.007845090985767586, vel_x=-0.019348880943120254, vel_y=-0.003326584307299491, vel_z=-8.332954434049767e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=1.92449757490036e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 26366.5 years
+impact velocity = 1.0e-03 AU/day
+velocity ratio = 0.99
+impact angle = 84.1 deg
+[collresolve.Body(mass=2.882958134245927e-07, radius=2.2586615521020502e-05, pos_x=0.5742057979598743, pos_y=0.43087262826009626, pos_z=0.0032370609531557027, vel_x=-0.012089025245802538, vel_y=0.016293979087154162, vel_z=-2.777655546774703e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 27917.0 years
+impact velocity = 9.3e-04 AU/day
+velocity ratio = 1.19
+impact angle = 23.0 deg
+[collresolve.Body(mass=1.4845162111658732e-07, radius=1.8370207000477725e-05, pos_x=-0.3399087105711131, pos_y=-1.043108245655024, pos_z=-0.0013370473718125812, vel_x=0.015884883188153735, vel_y=-0.0044558497148177376, vel_z=3.8751530519705676e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=1.9785788834126932e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 30685.0 years
+impact velocity = 1.3e-03 AU/day
+velocity ratio = 1.71
+impact angle = 72.7 deg
+[collresolve.Body(mass=1.0134973796205539e-07, radius=1.6283525679846227e-05, pos_x=0.5246183668685578, pos_y=0.30384208907244054, pos_z=0.0004773351407508792, vel_x=-0.011250746803675825, vel_y=0.01870144142898363, vel_z=-0.00044346049665253226), collresolve.Body(mass=4.763957711767013e-08, radius=1.2781127849299734e-05, pos_x=0.5246072094087029, pos_y=0.30386855457179285, pos_z=0.00047126702114978135, vel_x=-0.009851353353153253, vel_y=0.02065656411320363, vel_z=0.001173640181355922), collresolve.Body(mass=1.11906186916845e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 30685.0 years
+impact velocity = 2.9e-03 AU/day
+velocity ratio = 1.67
+impact angle = 73.5 deg
+[collresolve.Body(mass=1.0283414722236438e-07, radius=1.635939695867693e-05, pos_x=0.5246186761418223, pos_y=0.30384277195269743, pos_z=0.0004777332301313758, vel_x=-0.011184270341991657, vel_y=0.018692872741182445, vel_z=-0.00038310605936248316), collresolve.Body(mass=4.5692089940151635e-08, radius=1.2609653493898186e-05, pos_x=0.524606073965385, pos_y=0.3038680599362299, pos_z=0.00047013211440436923, vel_x=-0.009945854557412112, vel_y=0.020752844130264642, vel_z=0.0011014907517945627), collresolve.Body(mass=4.630779172095043e-10, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 31867.8 years
+impact velocity = 1.2e-03 AU/day
+velocity ratio = 1.26
+impact angle = 25.6 deg
+[collresolve.Body(mass=2.454792445224768e-07, radius=2.1493243905994667e-05, pos_x=-0.48017659846749056, pos_y=0.8376627395001499, pos_z=0.0021058622626635333, vel_x=-0.01511654863694106, vel_y=-0.008500945527355587, vel_z=-0.0001683107047367238), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=3.4371965997012615e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 35104.4 years
+impact velocity = 1.0e-03 AU/day
+velocity ratio = 1.30
+impact angle = 59.3 deg
+[collresolve.Body(mass=9.089245578290347e-08, radius=1.5726413756341565e-05, pos_x=0.9456296293099238, pos_y=0.26638090942584935, pos_z=0.009097769246563926, vel_x=-0.004069983401247496, vel_y=0.017119857360562235, vel_z=1.3355267274621567e-05), collresolve.Body(mass=5.278962460033478e-08, radius=1.3212859423354551e-05, pos_x=0.9456210917932831, pos_y=0.2663736417649572, pos_z=0.00912476196457699, vel_x=-0.0060957225812650105, vel_y=0.016992620596049397, vel_z=0.00025924108691943764), collresolve.Body(mass=1.214269365030184e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 35104.4 years
+impact velocity = 2.1e-03 AU/day
+velocity ratio = 1.20
+impact angle = 66.2 deg
+[collresolve.Body(mass=9.032975945855492e-08, radius=1.5695228354189407e-05, pos_x=0.9456272593219461, pos_y=0.2663809807879399, pos_z=0.009097207742402852, vel_x=-0.004151074335616411, vel_y=0.01714449189012452, vel_z=-9.143279167883207e-05), collresolve.Body(mass=5.335232092468334e-08, radius=1.325827796911926e-05, pos_x=0.9456251944165498, pos_y=0.2663735975937877, pos_z=0.009125427949336013, vel_x=-0.005937064055454148, vel_y=0.016952254302086984, vel_z=0.00043406236837104914), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 36086.9 years
+impact velocity = 7.8e-04 AU/day
+velocity ratio = 1.00
+impact angle = 7.1 deg
+[collresolve.Body(mass=1.4622221532892956e-07, radius=1.8282671391882064e-05, pos_x=0.8707147235322137, pos_y=0.8658931712136091, pos_z=-0.005167775295766811, vel_x=-0.011103858207435853, vel_y=0.011287025949592614, vel_z=-0.00011350180607708568), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=3.2792191705370735e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 38736.7 years
+impact velocity = 9.8e-04 AU/day
+velocity ratio = 1.10
+impact angle = 12.7 deg
+[collresolve.Body(mass=1.9478970345757648e-07, radius=2.0001342578256307e-05, pos_x=1.0734184926226464, pos_y=-0.21968006254413952, pos_z=0.005654406504947919, vel_x=0.0028573114397444214, vel_y=0.016216419596761386, vel_z=6.08716714372352e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=3.805317659010835e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 39101.6 years
+impact velocity = 9.0e-04 AU/day
+velocity ratio = 1.15
+impact angle = 47.7 deg
+[collresolve.Body(mass=1.3603510276166557e-07, radius=1.7870678689583354e-05, pos_x=0.9617028682202823, pos_y=-1.3836915883416088, pos_z=0.00143242901704251, vel_x=0.010324503178519729, vel_y=0.007757843385346562, vel_z=-0.0003241455265826738), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=1.4361791247590182e-08, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 39481.1 years
+impact velocity = 7.5e-04 AU/day
+velocity ratio = 1.05
+impact angle = 49.7 deg
+[collresolve.Body(mass=1.2386117713280913e-07, radius=1.734976131513502e-05, pos_x=-1.5991932502178372, pos_y=0.0038002796919511346, pos_z=0.01099392344950199, vel_x=-0.0007274112684039967, vel_y=-0.01378575483435077, vel_z=0.00015934045083096845), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 49622.8 years
+impact velocity = 1.1e-03 AU/day
+velocity ratio = 2.30
+impact angle = 43.9 deg
+[collresolve.Body(mass=5.0259644729095726e-08, radius=1.300450726253367e-05, pos_x=-0.01637951095210907, pos_y=0.8533540352322188, pos_z=0.0010966322470399687, vel_x=-0.017530520713836376, vel_y=-0.0010414194377528288, vel_z=-0.000913533458318302), collresolve.Body(mass=4.4720611065276805e-08, radius=1.2522265137631292e-05, pos_x=-0.016398718019628934, pos_y=0.8533403669099542, pos_z=0.0011070715533733958, vel_x=-0.019699966321043295, vel_y=0.0004064067310460424, vel_z=0.0008257105925259802), collresolve.Body(mass=5.306544205627477e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 49622.8 years
+impact velocity = 3.1e-03 AU/day
+velocity ratio = 2.11
+impact angle = 61.2 deg
+[collresolve.Body(mass=5.034331740114198e-08, radius=1.3011509928987961e-05, pos_x=-0.016381531846949897, pos_y=0.8533559494616961, pos_z=0.0010983582825515928, vel_x=-0.017558277175249715, vel_y=-0.0008007831951298952, vel_z=-0.0008496957270948864), collresolve.Body(mass=4.074012555281572e-08, radius=1.215017339419772e-05, pos_x=-0.016397232363057665, pos_y=0.8533372815768067, pos_z=0.0011054884783794994, vel_x=-0.01977992777223089, vel_y=0.00018530240976550683, vel_z=0.0008384278530525263), collresolve.Body(mass=3.896812840414834e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 49690.8 years
+impact velocity = 9.4e-04 AU/day
+velocity ratio = 1.23
+impact angle = 46.4 deg
+[collresolve.Body(mass=1.1647804063938126e-07, radius=1.701661998673563e-05, pos_x=-0.04268073371045872, pos_y=0.7929109115576971, pos_z=-0.01832935203278109, vel_x=-0.019178553601859764, vel_y=-0.00065677662186375, vel_z=-0.00014710216097224826), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=2.9624295439050806e-08, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 50047.1 years
+impact velocity = 8.5e-04 AU/day
+velocity ratio = 1.08
+impact angle = 48.9 deg
+[collresolve.Body(mass=1.5013315024226153e-07, radius=1.843563992799934e-05, pos_x=-0.07255909600637081, pos_y=0.6180447482577323, pos_z=0.0069964028673249554, vel_x=-0.02166883027876411, vel_y=-0.0029760853692183944, vel_z=-7.166055385164296e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=2.8443969801028583e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 50139.2 years
+impact velocity = 6.4e-04 AU/day
+velocity ratio = 1.35
+impact angle = 45.3 deg
+[collresolve.Body(mass=5.310443363518358e-08, radius=1.3238309592752616e-05, pos_x=-0.5020008094142931, pos_y=-1.3015588020400495, pos_z=0.02577871361074221, vel_x=0.01299889778765535, vel_y=-0.005570070948799428, vel_z=-0.00014289711165586656), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=4.7182366364816425e-08, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 50238.3 years
+impact velocity = 1.1e-03 AU/day
+velocity ratio = 2.36
+impact angle = 76.7 deg
+[collresolve.Body(mass=4.92370092026814e-08, radius=1.2918278288858782e-05, pos_x=-1.3224815467612057, pos_y=-0.5453597687797334, pos_z=0.026999303961340464, vel_x=0.00344455540120581, vel_y=-0.014349366543519482, vel_z=0.00014937591883587434), collresolve.Body(mass=4.617730564135664e-08, radius=1.265283112567881e-05, pos_x=-1.3224663226118036, pos_y=-0.5453634691189841, pos_z=0.027019835824918924, vel_x=0.006428368773248134, vel_y=-0.013064599320648893, vel_z=-0.0007016468736139381), collresolve.Body(mass=4.872485155961969e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 50238.3 years
+impact velocity = 3.4e-03 AU/day
+velocity ratio = 2.26
+impact angle = 76.5 deg
+[collresolve.Body(mass=4.852115296481775e-08, radius=1.2857194614052496e-05, pos_x=-1.3224810789198382, pos_y=-0.5453598030793193, pos_z=0.0269997423008754, vel_x=0.0035620917726735877, vel_y=-0.014289347827583034, vel_z=9.302972395242248e-05), collresolve.Body(mass=4.2492578933939044e-08, radius=1.2316886237084451e-05, pos_x=-1.3224662997078935, pos_y=-0.545363565365129, pos_z=0.027020086649153074, vel_x=0.006403348151061114, vel_y=-0.013086117736991568, vel_z=-0.0006684493665838925), collresolve.Body(mass=4.40058294528124e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 52984.2 years
+impact velocity = 5.0e-04 AU/day
+velocity ratio = 1.05
+impact angle = 39.3 deg
+[collresolve.Body(mass=1.002868e-07, radius=1.6228732155206607e-05, pos_x=-0.08916642674063191, pos_y=1.3353785998185739, pos_z=-0.004013693268954907, vel_x=-0.014989850442029173, vel_y=-0.001232290691941401, vel_z=0.0001510619981172278), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 56928.5 years
+impact velocity = 9.7e-04 AU/day
+velocity ratio = 1.24
+impact angle = 41.7 deg
+[collresolve.Body(mass=1.3106488574370567e-07, radius=1.7662004480832543e-05, pos_x=-0.798755316743107, pos_y=1.6908779090054393, pos_z=0.03793900221357115, vel_x=-0.011249797866529855, vel_y=-0.005510102215228973, vel_z=-0.00014769523306634692), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=1.9365314256294345e-08, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 74216.2 years
+impact velocity = 8.9e-04 AU/day
+velocity ratio = 1.00
+impact angle = 60.0 deg
+[collresolve.Body(mass=1.9903128095786757e-07, radius=2.0136745903418873e-05, pos_x=-0.8066226610932212, pos_y=0.726852562156331, pos_z=0.010606393220943689, vel_x=-0.011205725254621459, vel_y=-0.012673889640766997, vel_z=-0.00023144637491688446), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 83596.4 years
+impact velocity = 2.5e-03 AU/day
+velocity ratio = 1.07
+impact angle = 59.5 deg
+[collresolve.Body(mass=3.0638523332198565e-07, radius=2.300463374352411e-05, pos_x=-0.5583247112360425, pos_y=-0.3591824572324007, pos_z=0.010808217285723835, vel_x=0.010443882488500828, vel_y=-0.017927117500900116, vel_z=0.0001659647234132568), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=3.7989952199632824e-08, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 94991.5 years
+impact velocity = 9.6e-04 AU/day
+velocity ratio = 1.23
+impact angle = 68.0 deg
+[collresolve.Body(mass=9.847225355783331e-08, radius=1.613427610618033e-05, pos_x=-1.253349042124437, pos_y=-0.4298349712798044, pos_z=0.02491565785330173, vel_x=0.004183800484021196, vel_y=-0.014811777873054412, vel_z=0.0007368110341243309), collresolve.Body(mass=5.19579464421667e-08, radius=1.31451269903563e-05, pos_x=-1.2533658793461608, pos_y=-0.4298122876487607, pos_z=0.024906912815266063, vel_x=0.004692833461862682, vel_y=-0.014228294186599773, vel_z=-0.001093155430251699), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 94991.5 years
+impact velocity = 2.0e-03 AU/day
+velocity ratio = 1.14
+impact angle = 70.4 deg
+[collresolve.Body(mass=1.0529760422504727e-07, radius=1.6483565456733294e-05, pos_x=-1.2533493612533677, pos_y=-0.42983380949802863, pos_z=0.02491428453011534, vel_x=0.0042602717350899415, vel_y=-0.01481070167559835, vel_z=0.0006047583747049435), collresolve.Body(mass=4.513259577495273e-08, radius=1.2559479851435098e-05, pos_x=-1.253367681069046, pos_y=-0.4298115677500246, pos_z=0.02490879437533819, vel_x=0.0045914009854876505, vel_y=-0.014142565464632426, vel_z=-0.0010618107709094015), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 95117.3 years
+impact velocity = 8.8e-04 AU/day
+velocity ratio = 1.39
+impact angle = 25.2 deg
+[collresolve.Body(mass=9.084765058211586e-08, radius=1.572393539920684e-05, pos_x=0.7925979360222126, pos_y=0.9527313861786155, pos_z=-0.016227572677875963, vel_x=-0.011724787701646672, vel_y=0.009978305905319397, vel_z=-0.0005213237689391835), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=5.590136345923917e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 95400.6 years
+impact velocity = 6.4e-04 AU/day
+velocity ratio = 1.35
+impact angle = 2.5 deg
+[collresolve.Body(mass=9.627146966058368e-08, radius=1.6018115947443376e-05, pos_x=-1.1454265624273523, pos_y=-1.6440537499114543, pos_z=0.013239641079284778, vel_x=0.009774389302250946, vel_y=-0.00728417420804215, vel_z=-0.0003235540887027399), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=4.015330339416325e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 97630.4 years
+impact velocity = 7.8e-04 AU/day
+velocity ratio = 1.00
+impact angle = 25.1 deg
+[collresolve.Body(mass=1.5043020000000002e-07, radius=1.84470588279601e-05, pos_x=1.9234949564874935, pos_y=0.31819563241383797, pos_z=-0.05094101648362459, vel_x=-0.0017133667692221261, vel_y=0.012001152738756531, vel_z=0.0001579114627230907), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 99912.3 years
+impact velocity = 1.5e-03 AU/day
+velocity ratio = 3.05
+impact angle = 30.8 deg
+[collresolve.Body(mass=4.565444914080463e-08, radius=1.2606291050463462e-05, pos_x=-0.09396648301988271, pos_y=0.4608856888818431, pos_z=-0.0016728160957200494, vel_x=-0.027153196974319043, vel_y=-0.0059088144162088374, vel_z=0.0014347818549513267), collresolve.Body(mass=3.837821564776358e-08, radius=1.1917634270981256e-05, pos_x=-0.09395300953308845, pos_y=0.460882283281232, pos_z=-0.0016933192308902878, vel_x=-0.02476934613615058, vel_y=-0.0035102001226522965, vel_z=4.7640379285119965e-05), collresolve.Body(mass=1.6254135211431793e-08, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 99912.3 years
+impact velocity = 3.7e-03 AU/day
+velocity ratio = 2.57
+impact angle = 55.4 deg
+[collresolve.Body(mass=4.497039982334585e-08, radius=1.2544856137068442e-05, pos_x=-0.09396433963119848, pos_y=0.4608886614678312, pos_z=-0.0016734542035689898, vel_x=-0.027076873421249065, vel_y=-0.005653421226673453, vel_z=0.001523697806441089), collresolve.Body(mass=3.481009346521924e-08, radius=1.1547250228528358e-05, pos_x=-0.09395514912519741, pos_y=0.46087828397192826, pos_z=-0.001693452663562239, vel_x=-0.024756586867710827, vel_y=-0.0037280873434065156, vel_z=-0.00013202758534843222), collresolve.Body(mass=4.252171500003125e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 100565.8 years
+impact velocity = 9.1e-04 AU/day
+velocity ratio = 1.02
+impact angle = 28.4 deg
+[collresolve.Body(mass=2.005736e-07, radius=2.0185492421034203e-05, pos_x=0.9029574888742913, pos_y=1.6665888192357439, pos_z=0.03627569895969858, vel_x=-0.01088129098268204, vel_y=0.0059561530436128265, vel_z=0.0003593803811975766), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 107904.8 years
+impact velocity = 6.2e-04 AU/day
+velocity ratio = 1.30
+impact angle = 44.8 deg
+[collresolve.Body(mass=6.152457615474421e-08, radius=1.388277193132198e-05, pos_x=-1.6396102171567941, pos_y=-1.0037227486532734, pos_z=-0.051361711499853566, vel_x=0.006437483103602731, vel_y=-0.0105876594635685, vel_z=-0.00031675703615818737), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=3.8762223845255794e-08, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 114181.1 years
+impact velocity = 6.4e-04 AU/day
+velocity ratio = 1.34
+impact angle = 22.3 deg
+[collresolve.Body(mass=9.756868233996589e-08, radius=1.6086799804220843e-05, pos_x=0.652335387755568, pos_y=1.162622596341699, pos_z=0.026493071099160423, vel_x=-0.012865020538562347, vel_y=0.007324807415324632, vel_z=0.0005738842159041017), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=2.718117660034118e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 114746.5 years
+impact velocity = 1.8e-03 AU/day
+velocity ratio = 2.84
+impact angle = 69.9 deg
+[collresolve.Body(mass=4.909597294605533e-08, radius=1.2906291414939954e-05, pos_x=-0.9162744830250831, pos_y=1.498841972175765, pos_z=0.013051479559914411, vel_x=-0.01197273236829738, vel_y=-0.0051504077794749135, vel_z=-0.00036145723389038035), collresolve.Body(mass=4.06362224084103e-08, radius=1.2140138043170042e-05, pos_x=-0.9162644750471394, pos_y=1.498835313495148, pos_z=0.013029221186580923, vel_x=-0.010376483112628714, vel_y=-0.0088178380804648, vel_z=3.6112296066758955e-05), collresolve.Body(mass=4.237967232463007e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 114746.5 years
+impact velocity = 4.0e-03 AU/day
+velocity ratio = 2.76
+impact angle = 73.6 deg
+[collresolve.Body(mass=4.8145856934014675e-08, radius=1.2824927281392374e-05, pos_x=-0.916274239368303, pos_y=1.498841676366897, pos_z=0.013051140228876648, vel_x=-0.01192073690397957, vel_y=-0.0052616697220578025, vel_z=-0.00036093055196745544), collresolve.Body(mass=3.78961595574497e-08, radius=1.1868993456162225e-05, pos_x=-0.9162645023135816, pos_y=1.4988355014916594, pos_z=0.01302902446129004, vel_x=-0.010397516814810054, vel_y=-0.008779929328205923, vel_z=4.665727455938648e-05), collresolve.Body(mass=3.690178863001256e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 117710.1 years
+impact velocity = 1.2e-03 AU/day
+velocity ratio = 2.05
+impact angle = 50.9 deg
+[collresolve.Body(mass=5.069202893119196e-08, radius=1.3040609653202503e-05, pos_x=0.3295000433222877, pos_y=-0.40469314828355485, pos_z=-0.026194455504413173, vel_x=0.017097976038020053, vel_y=0.015654134938312907, vel_z=0.000155916354545501), collresolve.Body(mass=3.0985643711294646e-08, radius=1.1120567115680968e-05, pos_x=0.3295187048681342, pos_y=-0.40470884647512867, pos_z=-0.026193555739837615, vel_x=0.01715670447913114, vel_y=0.013679759509792073, vel_z=-0.0017067619196795094), collresolve.Body(mass=3.2758208227326303e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 117710.1 years
+impact velocity = 2.7e-03 AU/day
+velocity ratio = 1.92
+impact angle = 63.6 deg
+[collresolve.Body(mass=5.123252915563342e-08, radius=1.3085447957058399e-05, pos_x=0.3294999554506792, pos_y=-0.40469471318161354, pos_z=-0.026196047933815525, vel_x=0.016986932996787548, vel_y=0.015621305077263007, vel_z=2.8222148597939673e-05), collresolve.Body(mass=2.847297504139562e-08, radius=1.081924632904679e-05, pos_x=0.32952001945254544, pos_y=-0.4047070035250642, pos_z=-0.026190634660544384, vel_x=0.017360147990242866, vel_y=0.013616477643629388, vel_z=-0.0015924287098466026), collresolve.Body(mass=1.9721684454575647e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 119475.0 years
+impact velocity = 1.2e-03 AU/day
+velocity ratio = 1.13
+impact angle = 68.4 deg
+[collresolve.Body(mass=2.555810681380223e-07, radius=2.1763718955831303e-05, pos_x=-0.40625700560864525, pos_y=-0.8853774981340414, pos_z=0.011017998951655197, vel_x=0.01531389537007715, vel_y=-0.008266565843466578, vel_z=9.429471457686158e-06), collresolve.Body(mass=4.004157638445451e-08, radius=1.2082368881175965e-05, pos_x=-0.4062786697514031, pos_y=-0.8853519041105448, pos_z=0.011011351076002736, vel_x=0.016332436587650476, vel_y=-0.0066619445917671305, vel_z=-0.0014511972735888), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 119475.0 years
+impact velocity = 2.4e-03 AU/day
+velocity ratio = 1.06
+impact angle = 70.4 deg
+[collresolve.Body(mass=2.757493259387099e-07, radius=2.2280814873965807e-05, pos_x=-0.4062599399793476, pos_y=-0.8853740314677835, pos_z=0.011017098508385153, vel_x=0.015451855018026501, vel_y=-0.008049222667601857, vel_z=-0.0001884098972937467), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=1.98733185837669e-08, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 124926.1 years
+impact velocity = 8.0e-04 AU/day
+velocity ratio = 1.03
+impact angle = 76.6 deg
+[collresolve.Body(mass=1.435788945200356e-07, radius=1.8177697363468986e-05, pos_x=-0.791846540234967, pos_y=-1.0473334351449943, pos_z=-0.02283513386456599, vel_x=0.012189306922460291, vel_y=-0.008593324003295431, vel_z=-0.0003098069515963808), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=6.851305479964424e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 126813.8 years
+impact velocity = 8.2e-04 AU/day
+velocity ratio = 1.73
+impact angle = 43.5 deg
+[collresolve.Body(mass=5.0205083075587e-08, radius=1.2999936689314675e-05, pos_x=1.2555362860002108, pos_y=0.7707955695074387, pos_z=0.043295551881045974, vel_x=-0.007520863420840903, vel_y=0.012124055873630444, vel_z=-0.00019489393346610104), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=5.008171692441301e-08, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 130850.8 years
+impact velocity = 8.0e-04 AU/day
+velocity ratio = 1.03
+impact angle = 46.6 deg
+[collresolve.Body(mass=1.5043020000000002e-07, radius=1.84470588279601e-05, pos_x=-0.771029045564575, pos_y=-0.012557369971068927, pos_z=0.008819142490840403, vel_x=-0.0006238147176997975, vel_y=-0.0193580410747788, vel_z=0.00036166135329835665), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 152779.2 years
+impact velocity = 7.9e-04 AU/day
+velocity ratio = 1.00
+impact angle = 43.2 deg
+[collresolve.Body(mass=1.5544100422504727e-07, radius=1.8637161886158363e-05, pos_x=0.5078932512679131, pos_y=1.385627394916925, pos_z=-0.010563220005111796, vel_x=-0.013035642386685895, vel_y=0.0044624794535335875, vel_z=0.00042143519979991685), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 154722.9 years
+impact velocity = 1.0e-03 AU/day
+velocity ratio = 1.35
+impact angle = 48.3 deg
+[collresolve.Body(mass=9.227824557104439e-08, radius=1.5802661456537793e-05, pos_x=0.2097261144091377, pos_y=-1.5546155211276507, pos_z=-0.03578463763092956, vel_x=0.01326091506959931, vel_y=0.0009398051228154964, vel_z=-0.0005044032964041983), collresolve.Body(mass=4.9141892762780734e-08, radius=1.2910196756904984e-05, pos_x=0.20972020151575807, pos_y=-1.554587567007395, pos_z=-0.03577967738025574, vel_x=0.014671592286100588, vel_y=0.0021660897154838527, vel_z=0.0002615177250940229), collresolve.Body(mass=3.2159629029432673e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 154722.9 years
+impact velocity = 2.0e-03 AU/day
+velocity ratio = 1.19
+impact angle = 60.1 deg
+[collresolve.Body(mass=9.564678091143025e-08, radius=1.598481620562983e-05, pos_x=0.2097289627998562, pos_y=-1.554613760924951, pos_z=-0.03578326785096276, vel_x=0.013451032514753615, vel_y=0.0009042693007990706, vel_z=-0.0004507561474196974), collresolve.Body(mass=4.5773357422394877e-08, radius=1.2616906722418227e-05, pos_x=0.20971381445547277, pos_y=-1.5545891878908993, pos_z=-0.035782174602900646, vel_x=0.014378141983941167, vel_y=0.00233058868157898, vel_z=0.00020578344602333216), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 173853.1 years
+impact velocity = 3.4e-03 AU/day
+velocity ratio = 5.92
+impact angle = 36.6 deg
+[collresolve.Body(mass=3.0931873785113904e-08, radius=1.1114320799226341e-05, pos_x=0.1426524377445138, pos_y=0.4413102970086208, pos_z=-0.0022566673718408914, vel_x=-0.02371242858688062, vel_y=0.005747020344004453, vel_z=-0.001073908373021796), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=4.768450125628171e-08, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 181992.9 years
+impact velocity = 1.0e-03 AU/day
+velocity ratio = 1.33
+impact angle = 58.1 deg
+[collresolve.Body(mass=9.635641170201477e-08, radius=1.60226325444932e-05, pos_x=0.966484378055847, pos_y=0.80823282671071, pos_z=0.00018860998049297943, vel_x=-0.008798013966324363, vel_y=0.011867184268523309, vel_z=-0.00026576164377594883), collresolve.Body(mass=5.221971119544048e-08, radius=1.316652376845766e-05, pos_x=0.9664889853342431, pos_y=0.8082575678635798, pos_z=0.00020396512700228726, vel_x=-0.010364117972917655, vel_y=0.012404547247820422, vel_z=0.0010820647392540354), collresolve.Body(mass=1.8540771025447545e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 181992.9 years
+impact velocity = 2.1e-03 AU/day
+velocity ratio = 1.23
+impact angle = 65.7 deg
+[collresolve.Body(mass=9.374898226060439e-08, radius=1.58827378046821e-05, pos_x=0.9664819807878957, pos_y=0.8082323391063189, pos_z=0.0001897114746747205, vel_x=-0.008893257184638218, vel_y=0.011767268943744158, vel_z=-0.0002811176190547486), collresolve.Body(mass=5.482714063685086e-08, radius=1.3375803718732243e-05, pos_x=0.9664928653154865, pos_y=0.8082572249969858, pos_z=0.0002013514320708135, vel_x=-0.010126781859304898, vel_y=0.012549837041612546, vel_z=0.001044222985791863), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 185279.1 years
+impact velocity = 1.4e-03 AU/day
+velocity ratio = 1.25
+impact angle = 6.5 deg
+[collresolve.Body(mass=3.1935346911896037e-07, radius=2.328379895260626e-05, pos_x=-0.49160089449598754, pos_y=0.8694850595568557, pos_z=0.027834196292180893, vel_x=-0.014706776935792594, vel_y=-0.008978810808205404, vel_z=-0.00013569254589595553), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=6.539256819749545e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 203119.6 years
+impact velocity = 5.3e-03 AU/day
+velocity ratio = 9.01
+impact angle = 45.6 deg
+[collresolve.Body(mass=-6.398836131593004e-09, radius=-6.638923415727489e-06, pos_x=0.09066296049330606, pos_y=-0.3598188013652397, pos_z=-0.005057761544954102, vel_x=0.027996379216859903, vel_y=0.00521571975719813, vel_z=-0.0001290470853927678), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=8.74741099167069e-08, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 220219.7 years
+impact velocity = 7.7e-04 AU/day
+velocity ratio = 1.61
+impact angle = 51.3 deg
+[collresolve.Body(mass=5.022101717977291e-08, radius=1.3001271819438443e-05, pos_x=0.9641583627273442, pos_y=-0.8279512549602055, pos_z=0.0008611580536880771, vel_x=0.010693279118705283, vel_y=0.011130504271695589, vel_z=-5.110533602860042e-06), collresolve.Body(mass=4.582322508306411e-08, radius=1.2621353170216906e-05, pos_x=0.9641366098147904, pos_y=-0.8279566271386457, pos_z=0.0008741066225555431, vel_x=0.009953482233750997, vel_y=0.012654091862531976, vel_z=0.0014223671142903744), collresolve.Body(mass=4.242557737162985e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 220219.7 years
+impact velocity = 2.2e-03 AU/day
+velocity ratio = 1.49
+impact angle = 63.5 deg
+[collresolve.Body(mass=5.0061350448158693e-08, radius=1.298788027225735e-05, pos_x=0.9641577534249945, pos_y=-0.827948437844438, pos_z=0.0008632375304616754, vel_x=0.010797940691325942, vel_y=0.011325878187454883, vel_z=3.066186058138152e-05), collresolve.Body(mass=4.326427521993186e-08, radius=1.2388826879714186e-05, pos_x=0.9641366803779161, pos_y=-0.8279600435296736, pos_z=0.0008720781167521828, vel_x=0.009810800149498016, vel_y=0.012472461814037798, vel_z=0.0014226097109886293), collresolve.Body(mass=2.718616594746467e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 221049.1 years
+impact velocity = 1.9e-03 AU/day
+velocity ratio = 1.09
+impact angle = 25.2 deg
+[collresolve.Body(mass=1.4353726963173125e-07, radius=1.817603382597233e-05, pos_x=0.6711481226706626, pos_y=-1.7361167224868574, pos_z=0.07432585872599172, vel_x=0.01187098504968821, vel_y=0.004713761790663615, vel_z=0.0005049329849723055), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=8.800569628670949e-10, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 230520.4 years
+impact velocity = 1.8e-03 AU/day
+velocity ratio = 3.82
+impact angle = 64.9 deg
+[collresolve.Body(mass=4.853343383125432e-08, radius=1.2858247649498056e-05, pos_x=-0.7892492451466552, pos_y=0.11924307381145516, pos_z=0.004661428684874529, vel_x=-0.0019231515974271326, vel_y=-0.019879451065781487, vel_z=-0.0007194624849014615), collresolve.Body(mass=4.8054152500231894e-08, radius=1.2817016871759836e-05, pos_x=-0.7892592838360848, pos_y=0.1192641775855155, pos_z=0.004650189247643643, vel_x=-0.0061099823761754934, vel_y=-0.017949286693193837, vel_z=0.0024401976200059392), collresolve.Body(mass=3.699213668513789e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 230520.4 years
+impact velocity = 5.6e-03 AU/day
+velocity ratio = 3.75
+impact angle = 72.6 deg
+[collresolve.Body(mass=4.7055061298640176e-08, radius=1.2730167193748345e-05, pos_x=-0.7892491367194326, pos_y=0.11924317160810824, pos_z=0.0046611780920030365, vel_x=-0.002017522203878188, vel_y=-0.019712640608173626, vel_z=-0.0007890573135307418), collresolve.Body(mass=4.650663573054237e-08, radius=1.2681962733113717e-05, pos_x=-0.7892594026250105, pos_y=0.1192640977304622, pos_z=0.004650432626080346, vel_x=-0.006018287189310904, vel_y=-0.018116317821309964, vel_z=0.0025134720247487865), collresolve.Body(mass=3.025889302303672e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 248784.5 years
+impact velocity = 1.4e-03 AU/day
+velocity ratio = 1.73
+impact angle = 45.6 deg
+[collresolve.Body(mass=9.908375781813268e-08, radius=1.6166238863844093e-05, pos_x=-1.3125336754852126, pos_y=1.1479845518119414, pos_z=0.052614691514453374, vel_x=-0.009473566203513991, vel_y=-0.00913204693448835, vel_z=0.000760668194988638), collresolve.Body(mass=4.449047267379513e-08, radius=1.2501375756212943e-05, pos_x=-1.3125263750905172, pos_y=1.1479727369471169, pos_z=0.05258928552775256, vel_x=-0.006928072432180996, vel_y=-0.00966541997190261, vel_z=0.0001658949627813969), collresolve.Body(mass=6.855969508072202e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 248784.5 years
+impact velocity = 2.7e-03 AU/day
+velocity ratio = 1.55
+impact angle = 59.6 deg
+[collresolve.Body(mass=9.899685668168205e-08, radius=1.6161704797028285e-05, pos_x=-1.3125304303090928, pos_y=1.147984197433512, pos_z=0.05261468354581964, vel_x=-0.009332114980211048, vel_y=-0.009084435968691058, vel_z=0.0009056251480855418), collresolve.Body(mass=4.2198911560447947e-08, radius=1.2289277567733386e-05, pos_x=-1.3125337192032718, pos_y=1.14797313306653, pos_z=0.05258836831316485, vel_x=-0.007166139809738889, vel_y=-0.009796761735663828, vel_z=-0.00019607822576670918), collresolve.Body(mass=2.3784622497978176e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 293335.7 years
+impact velocity = 7.5e-04 AU/day
+velocity ratio = 1.56
+impact angle = 15.6 deg
+[collresolve.Body(mass=9.608677559770015e-08, radius=1.600828592626774e-05, pos_x=0.08104614735273966, pos_y=-1.112873199192407, pos_z=-0.058679089376008, vel_x=0.016092337664578675, vel_y=0.002047389585821054, vel_z=0.0004835131946557866), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=4.200024402299852e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 315545.6 years
+impact velocity = 1.9e-03 AU/day
+velocity ratio = 1.09
+impact angle = 64.0 deg
+[collresolve.Body(mass=1.2428732213507919e-07, radius=1.736857193482253e-05, pos_x=-0.79549197582125, pos_y=-0.3876930555417497, pos_z=-0.026890147241771474, vel_x=0.008371730962110571, vel_y=-0.015923006738695743, vel_z=0.0005190951422502838), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=2.63427952660628e-08, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 319253.2 years
+impact velocity = 1.5e-03 AU/day
+velocity ratio = 2.29
+impact angle = 56.9 deg
+[collresolve.Body(mass=5.455668791466842e-08, radius=1.3354413126079718e-05, pos_x=0.9424460376452587, pos_y=0.7154163831086502, pos_z=-0.011499769664205316, vel_x=-0.010093293837597099, vel_y=0.012570219930703326, vel_z=0.000953636699249784), collresolve.Body(mass=4.559080370585442e-08, radius=1.2600601356439627e-05, pos_x=0.9424704203955002, pos_y=0.7154177340054123, pos_z=-0.011490237614730276, vel_x=-0.008157024581186346, vel_y=0.014719823667402994, vel_z=-0.0006357511731881208), collresolve.Body(mass=4.823049016328017e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 319253.2 years
+impact velocity = 3.3e-03 AU/day
+velocity ratio = 2.19
+impact angle = 67.4 deg
+[collresolve.Body(mass=5.4250653364006446e-08, radius=1.333012174334121e-05, pos_x=0.9424472019014607, pos_y=0.715417613385635, pos_z=-0.011500653822848542, vel_x=-0.01009454491882308, vel_y=0.012688145220173688, vel_z=0.0008175886899410509), collresolve.Body(mass=4.178853582814659e-08, radius=1.2250478480541544e-05, pos_x=0.9424700362293398, pos_y=0.7154161992932769, pos_z=-0.011488649086292031, vel_x=-0.008065880456941777, vel_y=0.01466611395200005, vel_z=-0.0005326136273754861), collresolve.Body(mass=4.1083024283698034e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 324223.3 years
+impact velocity = 4.5e-03 AU/day
+velocity ratio = 9.81
+impact angle = 45.7 deg
+[collresolve.Body(mass=4.3744563868407e-08, radius=1.2433164658072907e-05, pos_x=-0.1983178248574886, pos_y=0.3389128945192136, pos_z=-0.005153392609921607, vel_x=-0.02570528396861647, vel_y=-0.01486040218965382, vel_z=-0.0013353614767723245), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 334481.0 years
+impact velocity = 1.9e-03 AU/day
+velocity ratio = 2.26
+impact angle = 62.2 deg
+[collresolve.Body(mass=1.3250023039645739e-07, radius=1.7722813232277364e-05, pos_x=0.3073397232562205, pos_y=-1.7396969699510736, pos_z=0.06715712962027, vel_x=0.012822485729588514, vel_y=0.0008349352103332137, vel_z=0.0007160168761376961), collresolve.Body(mass=4.807840339611086e-08, radius=1.2819109741189184e-05, pos_x=0.30734639704645383, pos_y=-1.739691526567904, pos_z=0.06712750887374679, vel_x=0.01158036002994066, vel_y=0.00459021417895403, vel_z=-0.0004888447403962092), collresolve.Body(mass=6.296519511374148e-10, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 334481.0 years
+impact velocity = 4.1e-03 AU/day
+velocity ratio = 2.21
+impact angle = 69.3 deg
+[collresolve.Body(mass=1.3426819192735173e-07, radius=1.7797099534370095e-05, pos_x=0.30733944226497045, pos_y=-1.7396961067326349, pos_z=0.06715683774858774, vel_x=0.01278384966257463, vel_y=0.0008965476173344519, vel_z=0.0007563000506746831), collresolve.Body(mass=4.631044186521651e-08, radius=1.2664624825743409e-05, pos_x=0.3073474665070223, pos_y=-1.7396938214949806, pos_z=0.06712722428874203, vel_x=0.011644958083579026, vel_y=0.004554943564633311, vel_z=-0.0006516351974641802), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 346647.8 years
+impact velocity = 8.7e-04 AU/day
+velocity ratio = 1.04
+impact angle = 44.4 deg
+[collresolve.Body(mass=1.7400457713280913e-07, radius=1.9306984539503073e-05, pos_x=0.9808862893327843, pos_y=-1.6805270862567188, pos_z=0.008731392114745159, vel_x=0.01118180436952307, vel_y=0.005398321608986338, vel_z=-0.0003322941617037717), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 379718.9 years
+impact velocity = 1.1e-03 AU/day
+velocity ratio = 1.22
+impact angle = 45.6 deg
+[collresolve.Body(mass=1.7383703336588288e-07, radius=1.9301162918620618e-05, pos_x=-0.9079679984455923, pos_y=0.8370270244127129, pos_z=-0.02820968233467016, vel_x=-0.011233882103372438, vel_y=-0.01105431072236453, vel_z=-0.0009927447091667044), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=2.2528581963046674e-08, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 421571.2 years
+impact velocity = 1.1e-03 AU/day
+velocity ratio = 2.25
+impact angle = 67.1 deg
+[collresolve.Body(mass=4.960732477015221e-08, radius=1.2949641931903712e-05, pos_x=1.395903833070653, pos_y=0.16667091783072008, pos_z=-0.06439222025299371, vel_x=-0.0030656959909524887, vel_y=0.014004798066169263, vel_z=-0.00021455477427749877), collresolve.Body(mass=4.5943192269689234e-08, radius=1.2632036664790411e-05, pos_x=1.395908014825599, pos_y=0.1666593441486822, pos_z=-0.06436950156074904, vel_x=8.270908846791684e-05, vel_y=0.013823053897353468, vel_z=0.00033391285460386094), collresolve.Body(mass=4.7362829601585615e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 421571.2 years
+impact velocity = 3.2e-03 AU/day
+velocity ratio = 2.16
+impact angle = 71.9 deg
+[collresolve.Body(mass=4.917500361878042e-08, radius=1.2913011206067332e-05, pos_x=1.3959049180944392, pos_y=0.16667069393802678, pos_z=-0.06439171831506497, vel_x=-0.002912794666459665, vel_y=0.014030116277858547, vel_z=-0.0002541758542552573), collresolve.Body(mass=4.215640286176538e-08, radius=1.2285270437144079e-05, pos_x=1.395906923556549, pos_y=0.16665912263738758, pos_z=-0.06436913958427007, vel_x=3.565535387835489e-05, vel_y=0.013785940837142758, vel_z=0.0004030042433297577), collresolve.Body(mass=4.219110559295648e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 421617.1 years
+impact velocity = 2.4e-03 AU/day
+velocity ratio = 1.03
+impact angle = 75.5 deg
+[collresolve.Body(mass=3.1887458022202723e-07, radius=2.327363056176568e-05, pos_x=0.33588060248429125, pos_y=-0.8514112223716401, pos_z=0.0739657736564044, vel_x=0.016617663068474495, vel_y=0.007341263062895504, vel_z=-8.585820510536747e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=3.058690073584033e-08, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 447885.8 years
+impact velocity = 2.8e-03 AU/day
+velocity ratio = 1.22
+impact angle = 39.9 deg
+[collresolve.Body(mass=2.940335960179226e-07, radius=2.2723424819457213e-05, pos_x=0.43826319830832117, pos_y=1.013741482927767, pos_z=0.011118478513589092, vel_x=-0.015053790459664033, vel_y=0.006933220174406991, vel_z=-0.00042331824133075735), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=4.4335001959689504e-08, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 512639.9 years
+impact velocity = 4.8e-03 AU/day
+velocity ratio = 10.02
+impact angle = 5.9 deg
+[collresolve.Body(mass=-1.038211538951259e-07, radius=-1.6807093385094857e-05, pos_x=1.3496789086325598, pos_y=-0.4574114799162541, pos_z=0.0006716391040786611, vel_x=0.007996126597113398, vel_y=0.013606225406876858, vel_z=-2.5438660728994842e-05), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=2.0410795389512592e-07, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 851660.7 years
+impact velocity = 2.7e-03 AU/day
+velocity ratio = 1.11
+impact angle = 61.0 deg
+[collresolve.Body(mass=3.3872555587063185e-07, radius=2.368659180359594e-05, pos_x=0.6955266850934912, pos_y=0.8526292826130291, pos_z=-0.012885765418025606, vel_x=-0.0124093085943393, vel_y=0.010081492494913163, vel_z=0.0005151744304112314), collresolve.Body(mass=3.1210088895073765e-08, radius=1.114656155124032e-05, pos_x=0.6955593917838523, pos_y=0.8526185564680827, pos_z=-0.012893042718292275, vel_x=-0.011742566319714693, vel_y=0.007942706378576686, vel_z=0.0016726568370414219), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 851660.7 years
+impact velocity = 2.5e-03 AU/day
+velocity ratio = 1.01
+impact angle = 66.5 deg
+[collresolve.Body(mass=3.631763820508965e-07, radius=2.4172881924600164e-05, pos_x=0.6955294444348201, pos_y=0.8526283776882346, pos_z=-0.01288637937667342, vel_x=-0.01235305803845054, vel_y=0.009901051097164949, vel_z=0.0006128268986622743), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=6.759262714809104e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 855713.2 years
+impact velocity = 3.1e-03 AU/day
+velocity ratio = 4.00
+impact angle = 54.0 deg
+[collresolve.Body(mass=9.285426979313305e-08, radius=1.5834126371703847e-05, pos_x=-1.1695433834153603, pos_y=-0.48788570306918544, pos_z=0.028653294855269344, vel_x=0.005609743743969166, vel_y=-0.013951677367506804, vel_z=-0.0006893212795604972), collresolve.Body(mass=4.9572473109398055e-08, radius=1.2946696948083727e-05, pos_x=-1.1695399831552493, pos_y=-0.48790391697902075, pos_z=0.028675693003854696, vel_x=0.012069490410161641, vel_y=-0.015456212796138503, vel_z=0.0005344225227783279), collresolve.Body(mass=5.285339437434784e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 855713.2 years
+impact velocity = 6.7e-03 AU/day
+velocity ratio = 3.94
+impact angle = 68.3 deg
+[collresolve.Body(mass=9.083114770726518e-08, radius=1.572302234933925e-05, pos_x=-1.16954322090166, pos_y=-0.48788542730655693, pos_z=0.028652934047210754, vel_x=0.0054931396121596825, vel_y=-0.014027615186258334, vel_z=-0.0005826796793114229), collresolve.Body(mass=5.159559519526593e-08, radius=1.3115387724808017e-05, pos_x=-1.1695404025795655, pos_y=-0.48790368825548003, pos_z=0.02867544992924776, vel_x=0.012021471407368006, vel_y=-0.015263533982208755, vel_z=0.00029870158551827445), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 880102.5 years
+impact velocity = 1.9e-03 AU/day
+velocity ratio = 4.03
+impact angle = 69.8 deg
+[collresolve.Body(mass=4.83779304428653e-08, radius=1.2844900538000384e-05, pos_x=1.374611495146103, pos_y=0.9259107419619826, pos_z=-0.02900043093035765, vel_x=-0.006822603469373342, vel_y=0.013160930892007584, vel_z=0.0005307304669000387), collresolve.Body(mass=4.924333086322897e-08, radius=1.2918815032452929e-05, pos_x=1.37461134048309, pos_y=0.9259035705217107, pos_z=-0.029025444073332452, vel_x=-0.00991384083270801, vel_y=0.008176962467768157, vel_z=0.00016562645245074705), collresolve.Body(mass=2.6655386939057355e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 880102.5 years
+impact velocity = 5.9e-03 AU/day
+velocity ratio = 3.93
+impact angle = 74.6 deg
+[collresolve.Body(mass=4.757642811119575e-08, radius=1.2775642663104806e-05, pos_x=1.3746109458770945, pos_y=0.9259029935997765, pos_z=-0.02902527656485656, vel_x=-0.009913229046341303, vel_y=0.00824609011628377, vel_z=0.00041174945407831346), collresolve.Body(mass=4.764487678183716e-08, radius=1.2781587960012166e-05, pos_x=1.3746118877040092, pos_y=0.9259112493754215, pos_z=-0.029000837744802582, vel_x=-0.00685281863164681, vel_y=0.013044171936735856, vel_z=0.00028146451702686526), collresolve.Body(mass=2.399956413061364e-09, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+collision time = 963266.4 years
+impact velocity = 5.3e-03 AU/day
+velocity ratio = 5.83
+impact angle = 58.2 deg
+[collresolve.Body(mass=1.4413480911586025e-07, radius=1.8199883039760135e-05, pos_x=-0.3678966957163983, pos_y=-0.8023553183530161, pos_z=-0.017223597626370643, vel_x=0.015331947042357384, vel_y=-0.0076001497672648815, vel_z=0.0008728435074795218), collresolve.Body(mass=0.0, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0), collresolve.Body(mass=6.398119848744803e-08, radius=0.0, pos_x=0.0, pos_y=0.0, pos_z=0.0, vel_x=0.0, vel_y=0.0, vel_z=0.0)]
+Particles in the simulation at t=1000000.0: 69

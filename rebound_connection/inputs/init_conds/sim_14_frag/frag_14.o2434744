@@ -1,0 +1,17 @@
+ 31       was hit by 71       at   269054738.662 years
+ 85       was hit by 16       at   269758561.389 years
+ 32       was hit by 95       at   270856575.706 years
+ 20       collided with the central body at  273987914.6905605 years
+ 23       was hit by 31       at   274065284.304 years
+ 23       was hit by 71       at   300562153.761 years
+ 23       was hit by 70       at   315201904.127 years
+ 44       collided with the central body at  372021856.5387130 years
+
+You may want to consider changing your batch submission script as follows to speed up your job run next time:
+
+#PBS -l select=1:ncpus=1:mem=1gb
+#PBS -l place=free:shared
+#PBS -l walltime=08:24:00
+
+Your group asphaug has been charged 08:19:04 for 1 cpus.
+You previously had 22226:29:02.  You now have 22218:09:58 remaining for the queue oc_standard
