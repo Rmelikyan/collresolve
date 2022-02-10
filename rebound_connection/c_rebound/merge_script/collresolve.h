@@ -1,1 +1,1 @@
-collresolve.h
+/Users/rmelikyan/Projects/collresolve/collresolve.h
