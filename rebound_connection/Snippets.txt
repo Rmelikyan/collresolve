@@ -1,0 +1,54 @@
+
+	struct reb_particle com = reb_get_com(r);
+	for (int j=0;j<r->N;j++){
+		struct reb_particle pj = r->particles[j];
+		double dvx = com.vx - pj.vx;
+		double dvy = com.vy - pj.vy;
+		double dvz = com.vz - pj.vz;
+		double v2 = dvx*dvx + dvy*dvy + dvz*dvz;
+		E0 += 0.5*pj.m*v2; // Kinetic Energy relative to COM
+		if(j==c.p1 || j==c.p2){continue;}
+		double dx = pj.x - p1.x;
+		double dy = pj.y - p1.y;
+		double dz = pj.z - p1.z;
+		double d = sqrt(dx*dx + dy*dy + dz*dz);
+		E0 -= r->G*pj.m*p1.m/d; // Potential Energy between Pj and  P1
+		dx = pj.x - p2.x;
+		dy = pj.y - p2.y;
+		dz = pj.z - p2.z;
+		d = sqrt(dx*dx + dy*dy + dz*dz);
+		E0 -= r->G*pj.m*p2.m/d; // Potential Energy between Pj and  P2
+	}
+	double dx = p1.x - p2.x;
+	double dy = p1.y - p2.y;
+	double dz = p1.z - p2.z;
+	double d = sqrt(dx*dx + dy*dy + dz*dz);
+	E0 -= r->G*p1.m*p2.m/d; // Potential Energy between P1 and  P2
+
+for (int j=0;j<r->N;j++){
+		struct reb_particle pj = r->particles[j];
+		double dvx = com.vx - pj.vx;
+		double dvy = com.vy - pj.vy;
+		double dvz = com.vz - pj.vz;
+		double v2 = dvx*dvx + dvy*dvy + dvz*dvz;
+		E1 += 0.5*pj.m*v2; // Kinetic Energy relative to COM
+		if(j==c.p1 || j==c.p2){continue;}
+		double dx; double dy; double dz; double d;
+		if (p1.m > 0){
+			dx = p1.x - pj.x;
+			dy = p1.y - pj.y;
+			dz = p1.z - pj.z;
+			d = sqrt(dx*dx + dy*dy + dz*dz);
+			E1 -= r->G*pj.m*p1.m/d;} // Potential Energy between Pj and  P1
+		if (p2.m > 0){
+			dx = p2.x - pj.x;
+			dy = p2.y - pj.y;
+			dz = p2.z - pj.z;
+			d = sqrt(dx*dx + dy*dy + dz*dz);
+			E1 -= r->G*pj.m*p2.m/d;} // Potential Energy between Pj and  P2
+	}
+	dx = p1.x - p2.x;
+	dy = p1.y - p2.y;
+	dz = p1.z - p2.z;
+	d = sqrt(dx*dx + dy*dy + dz*dz);
+	E1 -= r->G*p1.m*p2.m/d; // Potential Energy between P1 and P2
