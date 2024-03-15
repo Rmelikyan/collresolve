@@ -1272,14 +1272,14 @@ int collresolve_resolve_c2019( struct collresolve_conf* conf, struct collresolve
 
 		int i;
 		for ( i = 2; i < n; i++ ) {
-			ret[i].mass = 0.;
-			ret[i].radius = 0.;
-			ret[i].pos[0] = 0.;
-			ret[i].pos[1] = 0.;
-			ret[i].pos[2] = 0.;
-			ret[i].vel[0] = 0.;
-			ret[i].vel[1] = 0.;
-			ret[i].vel[2] = 0.;
+			ret[i].mass = accs[0];
+			ret[i].radius = accs[1];
+			ret[i].pos[0] = orb[0];
+			ret[i].pos[1] = orb[1];
+			ret[i].pos[2] = orb[2];
+			ret[i].vel[0] = score[0];
+			ret[i].vel[1] = score[1];
+			ret[i].vel[2] = score[2];
 		}
 
 		ret[n].mass = small.mass * acctr;
@@ -1310,14 +1310,14 @@ int collresolve_resolve_c2019( struct collresolve_conf* conf, struct collresolve
 
 		int i;
 		for ( i = 1; i < n; i++ ) {
-			ret[i].mass = 0.;
-			ret[i].radius = 0.;
-			ret[i].pos[0] = 0.;
-			ret[i].pos[1] = 0.;
-			ret[i].pos[2] = 0.;
-			ret[i].vel[0] = 0.;
-			ret[i].vel[1] = 0.;
-			ret[i].vel[2] = 0.;
+			ret[i].mass = accs[0];
+			ret[i].radius = accs[1];
+			ret[i].pos[0] = orb[0];
+			ret[i].pos[1] = orb[1];
+			ret[i].pos[2] = orb[2];
+			ret[i].vel[0] = score[0];
+			ret[i].vel[1] = score[1];
+			ret[i].vel[2] = score[2];
 		}
 
 		ret[n].mass = total_mass - rem_mass;

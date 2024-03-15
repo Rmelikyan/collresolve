@@ -22,3 +22,6 @@ stamp-h1
 *.o
 .venv
 .DS_Store
+.bin
+.venv
+venv

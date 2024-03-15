@@ -80,7 +80,7 @@ int main(int argc, char* argv[]){
 	r->heartbeat                    = heartbeat;
 	r->N_active                     = r->N;
 	r->G			    			= G;
-	r->dt			    			= 1;
+	r->dt			    			= 6;
 	reb_integrate(r, tmax);
 	reb_free_pointers(r);
 	exit(0);
